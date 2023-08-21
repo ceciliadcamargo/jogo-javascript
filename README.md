@@ -36,3 +36,7 @@ Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
 ## :books: Mais informações do curso
 
 O projeto foi desenvolvido dentro do curso Lógica de Programação: laços e listas com JavaScript da Alura na formação "A partir do zero: iniciante em programação". Agradeço ao professor Guilherme Lima por toda instrução e aprendizado.
+
+## :pencil: Créditos das imagens
+
+Todas imagens foram fornecidas durante o curso pela Alura, com exceção da imagem de fundo retirada do [Pixabay](https://pixabay.com/pt/).
