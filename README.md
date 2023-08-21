@@ -2,9 +2,9 @@
 
 # Jogo com JavaScript
 
-Embarque em uma jornada nostálgica com esse projeto desenvolvido em JavaScript que homenageia alguns jogos clássicos dos anos 80 como [Freeway](https://pt.wikipedia.org/wiki/Freeway_(jogo_eletr%C3%B4nico)) e [Frogger](https://en.wikipedia.org/wiki/Frogger).
+Embarque em uma jornada nostálgica com esse projeto desenvolvido em JavaScript que homenageia alguns dos jogos clássicos dos anos 80 como [Freeway](https://pt.wikipedia.org/wiki/Freeway_(jogo_eletr%C3%B4nico)) e [Frogger](https://en.wikipedia.org/wiki/Frogger).
 
-![]()
+![](jogo.gif)
 
 ## :hammer: Funcionalidades do projeto
 
@@ -35,4 +35,4 @@ Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
 
 ## :books: Mais informações do curso
 
-O projeto foi desenvolvido dentro do curso Lógica de Programação: laços e listas com JavaScript da Alura na formação publicado na Escola Frontend.
+O projeto foi desenvolvido dentro do curso Lógica de Programação: laços e listas com JavaScript da Alura na formação "A partir do zero: iniciante em programação". Agradeço ao professor Guilherme Lima por toda instrução e aprendizado.
