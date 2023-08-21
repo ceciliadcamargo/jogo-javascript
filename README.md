@@ -4,6 +4,8 @@
 
 Embarque em uma jornada nostálgica com esse projeto desenvolvido em JavaScript que homenageia alguns jogos clássicos dos anos 80 como [Freeway](https://pt.wikipedia.org/wiki/Freeway_(jogo_eletr%C3%B4nico)) e [Frogger](https://en.wikipedia.org/wiki/Frogger).
 
+![]()
+
 ## :hammer: Funcionalidades do projeto
 
 A funcionalidade do jogo é bem simples. Para que o personagem se movimente, você vai pressionar as setas :arrow_left: :arrow_up_down: :arrow_right: do teclado da sua máquina. Cada direção corresponde ao lado que a seta aponta. 
@@ -33,4 +35,4 @@ Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
 
 ## :books: Mais informações do curso
 
-Busque na plataforma da Alura o curso JavaScript para web: crie páginas dinâmicas publicado na Escola Frontend.
+O projeto foi desenvolvido dentro do curso Lógica de Programação: laços e listas com JavaScript da Alura na formação publicado na Escola Frontend.
