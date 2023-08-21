@@ -2,7 +2,7 @@
 
 # Jogo com JavaScript
 
-Embarque em uma jornada nostálgica com esse projeto desenvolvido em JavaScript que homenageia alguns dos jogos clássicos dos anos 80 como [Freeway](https://pt.wikipedia.org/wiki/Freeway_(jogo_eletr%C3%B4nico)) e [Frogger](https://en.wikipedia.org/wiki/Frogger).
+Embarque em uma jornada nostálgica com esse projeto desenvolvido em JavaScript inspirado em jogos clássicos dos anos 80 como [Freeway](https://pt.wikipedia.org/wiki/Freeway_(jogo_eletr%C3%B4nico)) e [Frogger](https://en.wikipedia.org/wiki/Frogger).
 
 ![Jogo com carros se movimentando da direita para a esquerda. Personagem posicionado na posição inferior da tela.](jogo.gif)
 
@@ -10,7 +10,7 @@ Embarque em uma jornada nostálgica com esse projeto desenvolvido em JavaScript 
 
 A funcionalidade do jogo é bem simples. Para que o personagem se movimente, você vai pressionar as setas :arrow_left: :arrow_up_down: :arrow_right: do teclado da sua máquina. Cada direção corresponde ao lado que a seta aponta. 
 
-Lembre-se que é necessário desviar dos carros para que o personagem chegue ao outro lado da rua. Se atingido você perde o(s) ponto(s) e volta à posição incial. Já se o personagem consegue atravessar sem ser atingido você ganha 1 ponto. Mas não pense que é tão fácil assim, a cada ponto os carros se movimentam um pouco mais rápido! Vamos nessa?
+Lembre-se que é necessário desviar dos carros para que o personagem chegue ao outro lado da rua. Se atingido você perde o(s) ponto(s) e volta à posição incial. Já se o personagem consegue atravessar sem ser atingido você ganha 1 ponto. Mas não pense que é tão fácil assim, a cada ponto feito os carros se movimentam um pouco mais rápido! Vamos nessa?
 
 ## :bulb: Técnicas e tecnologias utilizadas
 
