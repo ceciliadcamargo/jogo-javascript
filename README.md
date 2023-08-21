@@ -4,7 +4,7 @@
 
 Embarque em uma jornada nostálgica com esse projeto desenvolvido em JavaScript que homenageia alguns dos jogos clássicos dos anos 80 como [Freeway](https://pt.wikipedia.org/wiki/Freeway_(jogo_eletr%C3%B4nico)) e [Frogger](https://en.wikipedia.org/wiki/Frogger).
 
-![](jogo.gif)
+![Jogo com carros se movimentando da direita para a esquerda. Personagem posicionado na posição inferior da tela.](jogo.gif)
 
 ## :hammer: Funcionalidades do projeto
 
@@ -25,7 +25,7 @@ Lembre-se que é necessário desviar dos carros para que o personagem chegue ao 
 
 ## :video_game: Acesso ao projeto
 
-Veja o projeto final do curso em funcionamento.
+[Veja o projeto do curso em funcionamento.](https://jogo-javascript-six.vercel.app/)
 
 Neste repositório você tem acesso a todo o material produzido no curso.
 
